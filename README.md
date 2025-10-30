@@ -2,7 +2,7 @@
 
 NIKO (Nintendo Kode - 任天堂コード), also abbreviation for "Nintendo Input-based Keycode Operations," is a programming language created to be written entirely using buttons of the Nintendo's Joy-Cons.
 
-NIKO will be implemented later in the future.
+The NIKO project will start later in the future.
 
 ## Features
 
